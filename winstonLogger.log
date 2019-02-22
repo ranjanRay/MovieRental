@@ -1,0 +1,1297 @@
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly","level":"info"}
+{"level":"error","message":"id is not definedid is not defined","stack":"ReferenceError: id is not defined\n    at router.get.asyncMiddleware (D:\\Learning\\Node repetition\\vidly\\routes\\genre.js:20:19)\n    at D:\\Learning\\Node repetition\\vidly\\middleware\\async.js:4:13\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at param (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:410:3)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:45:33)\n    at xXssProtection (D:\\Learning\\Node repetition\\vidly\\node_modules\\x-xss-protection\\index.js:26:7)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at nosniff (D:\\Learning\\Node repetition\\vidly\\node_modules\\dont-sniff-mimetype\\index.js:4:5)"}
+{"level":"error","message":"id is not definedid is not defined","stack":"ReferenceError: id is not defined\n    at router.get.asyncMiddleware (D:\\Learning\\Node repetition\\vidly\\routes\\genre.js:20:19)\n    at D:\\Learning\\Node repetition\\vidly\\middleware\\async.js:4:13\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at param (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:410:3)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:45:33)\n    at xXssProtection (D:\\Learning\\Node repetition\\vidly\\node_modules\\x-xss-protection\\index.js:26:7)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at nosniff (D:\\Learning\\Node repetition\\vidly\\node_modules\\dont-sniff-mimetype\\index.js:4:5)"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"level":"error","message":"Movie.findById is not a functionMovie.findById is not a function","stack":"TypeError: Movie.findById is not a function\n    at findById (D:\\Learning\\Node repetition\\vidly\\routes\\return.js:28:11)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at next (D:\\Learning\\Node repetition\\vidly\\middleware\\auth.js:11:9)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:45:33)\n    at xXssProtection (D:\\Learning\\Node repetition\\vidly\\node_modules\\x-xss-protection\\index.js:26:7)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at nosniff (D:\\Learning\\Node repetition\\vidly\\node_modules\\dont-sniff-mimetype\\index.js:4:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at ienoopen (D:\\Learning\\Node repetition\\vidly\\node_modules\\ienoopen\\index.js:4:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at hsts (D:\\Learning\\Node repetition\\vidly\\node_modules\\hsts\\index.js:42:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at hidePoweredBy (D:\\Learning\\Node repetition\\vidly\\node_modules\\hide-powered-by\\index.js:12:7)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at frameguard (D:\\Learning\\Node repetition\\vidly\\node_modules\\frameguard\\index.js:38:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at dnsPrefetchControl (D:\\Learning\\Node repetition\\vidly\\node_modules\\dns-prefetch-control\\index.js:10:7)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at helmet (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:52:5)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at serveStatic (D:\\Learning\\Node repetition\\vidly\\node_modules\\serve-static\\index.js:75:16)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at urlencodedParser (D:\\Learning\\Node repetition\\vidly\\node_modules\\body-parser\\lib\\types\\urlencoded.js:82:7)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\body-parser\\lib\\read.js:130:5\n    at invokeCallback (D:\\Learning\\Node repetition\\vidly\\node_modules\\raw-body\\index.js:224:16)\n    at done (D:\\Learning\\Node repetition\\vidly\\node_modules\\raw-body\\index.js:213:7)\n    at IncomingMessage.onEnd (D:\\Learning\\Node repetition\\vidly\\node_modules\\raw-body\\index.js:273:7)\n    at IncomingMessage.emit (events.js:182:13)\n    at endReadableNT (_stream_readable.js:1094:12)\n    at process._tickCallback (internal/process/next_tick.js:63:19)"}
+{"level":"error","message":"Movie.findById is not a functionMovie.findById is not a function","stack":"TypeError: Movie.findById is not a function\n    at findById (D:\\Learning\\Node repetition\\vidly\\routes\\return.js:28:11)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at next (D:\\Learning\\Node repetition\\vidly\\middleware\\auth.js:11:9)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:45:33)\n    at xXssProtection (D:\\Learning\\Node repetition\\vidly\\node_modules\\x-xss-protection\\index.js:26:7)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at nosniff (D:\\Learning\\Node repetition\\vidly\\node_modules\\dont-sniff-mimetype\\index.js:4:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at ienoopen (D:\\Learning\\Node repetition\\vidly\\node_modules\\ienoopen\\index.js:4:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at hsts (D:\\Learning\\Node repetition\\vidly\\node_modules\\hsts\\index.js:42:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at hidePoweredBy (D:\\Learning\\Node repetition\\vidly\\node_modules\\hide-powered-by\\index.js:12:7)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at frameguard (D:\\Learning\\Node repetition\\vidly\\node_modules\\frameguard\\index.js:38:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at dnsPrefetchControl (D:\\Learning\\Node repetition\\vidly\\node_modules\\dns-prefetch-control\\index.js:10:7)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at helmet (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:52:5)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at serveStatic (D:\\Learning\\Node repetition\\vidly\\node_modules\\serve-static\\index.js:75:16)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at urlencodedParser (D:\\Learning\\Node repetition\\vidly\\node_modules\\body-parser\\lib\\types\\urlencoded.js:82:7)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\body-parser\\lib\\read.js:130:5\n    at invokeCallback (D:\\Learning\\Node repetition\\vidly\\node_modules\\raw-body\\index.js:224:16)\n    at done (D:\\Learning\\Node repetition\\vidly\\node_modules\\raw-body\\index.js:213:7)\n    at IncomingMessage.onEnd (D:\\Learning\\Node repetition\\vidly\\node_modules\\raw-body\\index.js:273:7)\n    at IncomingMessage.emit (events.js:182:13)\n    at endReadableNT (_stream_readable.js:1094:12)\n    at process._tickCallback (internal/process/next_tick.js:63:19)"}
+{"level":"error","message":"Movie.findById is not a functionMovie.findById is not a function","stack":"TypeError: Movie.findById is not a function\n    at findById (D:\\Learning\\Node repetition\\vidly\\routes\\return.js:28:11)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at next (D:\\Learning\\Node repetition\\vidly\\middleware\\auth.js:11:9)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:45:33)\n    at xXssProtection (D:\\Learning\\Node repetition\\vidly\\node_modules\\x-xss-protection\\index.js:26:7)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at nosniff (D:\\Learning\\Node repetition\\vidly\\node_modules\\dont-sniff-mimetype\\index.js:4:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at ienoopen (D:\\Learning\\Node repetition\\vidly\\node_modules\\ienoopen\\index.js:4:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at hsts (D:\\Learning\\Node repetition\\vidly\\node_modules\\hsts\\index.js:42:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at hidePoweredBy (D:\\Learning\\Node repetition\\vidly\\node_modules\\hide-powered-by\\index.js:12:7)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at frameguard (D:\\Learning\\Node repetition\\vidly\\node_modules\\frameguard\\index.js:38:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at dnsPrefetchControl (D:\\Learning\\Node repetition\\vidly\\node_modules\\dns-prefetch-control\\index.js:10:7)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at helmet (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:52:5)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at serveStatic (D:\\Learning\\Node repetition\\vidly\\node_modules\\serve-static\\index.js:75:16)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at urlencodedParser (D:\\Learning\\Node repetition\\vidly\\node_modules\\body-parser\\lib\\types\\urlencoded.js:82:7)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\body-parser\\lib\\read.js:130:5\n    at invokeCallback (D:\\Learning\\Node repetition\\vidly\\node_modules\\raw-body\\index.js:224:16)\n    at done (D:\\Learning\\Node repetition\\vidly\\node_modules\\raw-body\\index.js:213:7)\n    at IncomingMessage.onEnd (D:\\Learning\\Node repetition\\vidly\\node_modules\\raw-body\\index.js:273:7)\n    at IncomingMessage.emit (events.js:182:13)\n    at endReadableNT (_stream_readable.js:1094:12)\n    at process._tickCallback (internal/process/next_tick.js:63:19)"}
+{"level":"error","message":"Movie.findById is not a functionMovie.findById is not a function","stack":"TypeError: Movie.findById is not a function\n    at findById (D:\\Learning\\Node repetition\\vidly\\routes\\return.js:28:11)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at next (D:\\Learning\\Node repetition\\vidly\\middleware\\auth.js:11:9)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:45:33)\n    at xXssProtection (D:\\Learning\\Node repetition\\vidly\\node_modules\\x-xss-protection\\index.js:26:7)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at nosniff (D:\\Learning\\Node repetition\\vidly\\node_modules\\dont-sniff-mimetype\\index.js:4:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at ienoopen (D:\\Learning\\Node repetition\\vidly\\node_modules\\ienoopen\\index.js:4:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at hsts (D:\\Learning\\Node repetition\\vidly\\node_modules\\hsts\\index.js:42:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at hidePoweredBy (D:\\Learning\\Node repetition\\vidly\\node_modules\\hide-powered-by\\index.js:12:7)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at frameguard (D:\\Learning\\Node repetition\\vidly\\node_modules\\frameguard\\index.js:38:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at dnsPrefetchControl (D:\\Learning\\Node repetition\\vidly\\node_modules\\dns-prefetch-control\\index.js:10:7)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at helmet (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:52:5)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at serveStatic (D:\\Learning\\Node repetition\\vidly\\node_modules\\serve-static\\index.js:75:16)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at urlencodedParser (D:\\Learning\\Node repetition\\vidly\\node_modules\\body-parser\\lib\\types\\urlencoded.js:82:7)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\body-parser\\lib\\read.js:130:5\n    at invokeCallback (D:\\Learning\\Node repetition\\vidly\\node_modules\\raw-body\\index.js:224:16)\n    at done (D:\\Learning\\Node repetition\\vidly\\node_modules\\raw-body\\index.js:213:7)\n    at IncomingMessage.onEnd (D:\\Learning\\Node repetition\\vidly\\node_modules\\raw-body\\index.js:273:7)\n    at IncomingMessage.emit (events.js:182:13)\n    at endReadableNT (_stream_readable.js:1094:12)\n    at process._tickCallback (internal/process/next_tick.js:63:19)"}
+{"level":"error","message":"Movie.findById is not a functionMovie.findById is not a function","stack":"TypeError: Movie.findById is not a function\n    at findById (D:\\Learning\\Node repetition\\vidly\\routes\\return.js:28:11)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at next (D:\\Learning\\Node repetition\\vidly\\middleware\\auth.js:11:9)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:45:33)\n    at xXssProtection (D:\\Learning\\Node repetition\\vidly\\node_modules\\x-xss-protection\\index.js:26:7)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at nosniff (D:\\Learning\\Node repetition\\vidly\\node_modules\\dont-sniff-mimetype\\index.js:4:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at ienoopen (D:\\Learning\\Node repetition\\vidly\\node_modules\\ienoopen\\index.js:4:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at hsts (D:\\Learning\\Node repetition\\vidly\\node_modules\\hsts\\index.js:42:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at hidePoweredBy (D:\\Learning\\Node repetition\\vidly\\node_modules\\hide-powered-by\\index.js:12:7)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at frameguard (D:\\Learning\\Node repetition\\vidly\\node_modules\\frameguard\\index.js:38:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at dnsPrefetchControl (D:\\Learning\\Node repetition\\vidly\\node_modules\\dns-prefetch-control\\index.js:10:7)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at helmet (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:52:5)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at serveStatic (D:\\Learning\\Node repetition\\vidly\\node_modules\\serve-static\\index.js:75:16)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at urlencodedParser (D:\\Learning\\Node repetition\\vidly\\node_modules\\body-parser\\lib\\types\\urlencoded.js:82:7)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\body-parser\\lib\\read.js:130:5\n    at invokeCallback (D:\\Learning\\Node repetition\\vidly\\node_modules\\raw-body\\index.js:224:16)\n    at done (D:\\Learning\\Node repetition\\vidly\\node_modules\\raw-body\\index.js:213:7)\n    at IncomingMessage.onEnd (D:\\Learning\\Node repetition\\vidly\\node_modules\\raw-body\\index.js:273:7)\n    at IncomingMessage.emit (events.js:182:13)\n    at endReadableNT (_stream_readable.js:1094:12)\n    at process._tickCallback (internal/process/next_tick.js:63:19)"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"level":"error","message":"Movie.findById is not a functionMovie.findById is not a function","stack":"TypeError: Movie.findById is not a function\n    at findById (D:\\Learning\\Node repetition\\vidly\\routes\\return.js:28:11)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at next (D:\\Learning\\Node repetition\\vidly\\middleware\\auth.js:11:9)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:45:33)\n    at xXssProtection (D:\\Learning\\Node repetition\\vidly\\node_modules\\x-xss-protection\\index.js:26:7)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at nosniff (D:\\Learning\\Node repetition\\vidly\\node_modules\\dont-sniff-mimetype\\index.js:4:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at ienoopen (D:\\Learning\\Node repetition\\vidly\\node_modules\\ienoopen\\index.js:4:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at hsts (D:\\Learning\\Node repetition\\vidly\\node_modules\\hsts\\index.js:42:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at hidePoweredBy (D:\\Learning\\Node repetition\\vidly\\node_modules\\hide-powered-by\\index.js:12:7)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at frameguard (D:\\Learning\\Node repetition\\vidly\\node_modules\\frameguard\\index.js:38:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at dnsPrefetchControl (D:\\Learning\\Node repetition\\vidly\\node_modules\\dns-prefetch-control\\index.js:10:7)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at helmet (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:52:5)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at serveStatic (D:\\Learning\\Node repetition\\vidly\\node_modules\\serve-static\\index.js:75:16)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at urlencodedParser (D:\\Learning\\Node repetition\\vidly\\node_modules\\body-parser\\lib\\types\\urlencoded.js:82:7)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\body-parser\\lib\\read.js:130:5\n    at invokeCallback (D:\\Learning\\Node repetition\\vidly\\node_modules\\raw-body\\index.js:224:16)\n    at done (D:\\Learning\\Node repetition\\vidly\\node_modules\\raw-body\\index.js:213:7)\n    at IncomingMessage.onEnd (D:\\Learning\\Node repetition\\vidly\\node_modules\\raw-body\\index.js:273:7)\n    at IncomingMessage.emit (events.js:182:13)\n    at endReadableNT (_stream_readable.js:1094:12)\n    at process._tickCallback (internal/process/next_tick.js:63:19)"}
+{"level":"error","message":"Movie.findById is not a functionMovie.findById is not a function","stack":"TypeError: Movie.findById is not a function\n    at findById (D:\\Learning\\Node repetition\\vidly\\routes\\return.js:28:11)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at next (D:\\Learning\\Node repetition\\vidly\\middleware\\auth.js:11:9)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:45:33)\n    at xXssProtection (D:\\Learning\\Node repetition\\vidly\\node_modules\\x-xss-protection\\index.js:26:7)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at nosniff (D:\\Learning\\Node repetition\\vidly\\node_modules\\dont-sniff-mimetype\\index.js:4:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at ienoopen (D:\\Learning\\Node repetition\\vidly\\node_modules\\ienoopen\\index.js:4:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at hsts (D:\\Learning\\Node repetition\\vidly\\node_modules\\hsts\\index.js:42:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at hidePoweredBy (D:\\Learning\\Node repetition\\vidly\\node_modules\\hide-powered-by\\index.js:12:7)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at frameguard (D:\\Learning\\Node repetition\\vidly\\node_modules\\frameguard\\index.js:38:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at dnsPrefetchControl (D:\\Learning\\Node repetition\\vidly\\node_modules\\dns-prefetch-control\\index.js:10:7)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at helmet (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:52:5)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at serveStatic (D:\\Learning\\Node repetition\\vidly\\node_modules\\serve-static\\index.js:75:16)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at urlencodedParser (D:\\Learning\\Node repetition\\vidly\\node_modules\\body-parser\\lib\\types\\urlencoded.js:82:7)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\body-parser\\lib\\read.js:130:5\n    at invokeCallback (D:\\Learning\\Node repetition\\vidly\\node_modules\\raw-body\\index.js:224:16)\n    at done (D:\\Learning\\Node repetition\\vidly\\node_modules\\raw-body\\index.js:213:7)\n    at IncomingMessage.onEnd (D:\\Learning\\Node repetition\\vidly\\node_modules\\raw-body\\index.js:273:7)\n    at IncomingMessage.emit (events.js:182:13)\n    at endReadableNT (_stream_readable.js:1094:12)\n    at process._tickCallback (internal/process/next_tick.js:63:19)"}
+{"level":"error","message":"Movie.findById is not a functionMovie.findById is not a function","stack":"TypeError: Movie.findById is not a function\n    at findById (D:\\Learning\\Node repetition\\vidly\\routes\\return.js:28:11)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at next (D:\\Learning\\Node repetition\\vidly\\middleware\\auth.js:11:9)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:45:33)\n    at xXssProtection (D:\\Learning\\Node repetition\\vidly\\node_modules\\x-xss-protection\\index.js:26:7)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at nosniff (D:\\Learning\\Node repetition\\vidly\\node_modules\\dont-sniff-mimetype\\index.js:4:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at ienoopen (D:\\Learning\\Node repetition\\vidly\\node_modules\\ienoopen\\index.js:4:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at hsts (D:\\Learning\\Node repetition\\vidly\\node_modules\\hsts\\index.js:42:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at hidePoweredBy (D:\\Learning\\Node repetition\\vidly\\node_modules\\hide-powered-by\\index.js:12:7)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at frameguard (D:\\Learning\\Node repetition\\vidly\\node_modules\\frameguard\\index.js:38:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at dnsPrefetchControl (D:\\Learning\\Node repetition\\vidly\\node_modules\\dns-prefetch-control\\index.js:10:7)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at helmet (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:52:5)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at serveStatic (D:\\Learning\\Node repetition\\vidly\\node_modules\\serve-static\\index.js:75:16)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at urlencodedParser (D:\\Learning\\Node repetition\\vidly\\node_modules\\body-parser\\lib\\types\\urlencoded.js:82:7)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\body-parser\\lib\\read.js:130:5\n    at invokeCallback (D:\\Learning\\Node repetition\\vidly\\node_modules\\raw-body\\index.js:224:16)\n    at done (D:\\Learning\\Node repetition\\vidly\\node_modules\\raw-body\\index.js:213:7)\n    at IncomingMessage.onEnd (D:\\Learning\\Node repetition\\vidly\\node_modules\\raw-body\\index.js:273:7)\n    at IncomingMessage.emit (events.js:182:13)\n    at endReadableNT (_stream_readable.js:1094:12)\n    at process._tickCallback (internal/process/next_tick.js:63:19)"}
+{"level":"error","message":"Movie.findById is not a functionMovie.findById is not a function","stack":"TypeError: Movie.findById is not a function\n    at findById (D:\\Learning\\Node repetition\\vidly\\routes\\return.js:28:11)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at next (D:\\Learning\\Node repetition\\vidly\\middleware\\auth.js:11:9)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:45:33)\n    at xXssProtection (D:\\Learning\\Node repetition\\vidly\\node_modules\\x-xss-protection\\index.js:26:7)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at nosniff (D:\\Learning\\Node repetition\\vidly\\node_modules\\dont-sniff-mimetype\\index.js:4:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at ienoopen (D:\\Learning\\Node repetition\\vidly\\node_modules\\ienoopen\\index.js:4:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at hsts (D:\\Learning\\Node repetition\\vidly\\node_modules\\hsts\\index.js:42:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at hidePoweredBy (D:\\Learning\\Node repetition\\vidly\\node_modules\\hide-powered-by\\index.js:12:7)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at frameguard (D:\\Learning\\Node repetition\\vidly\\node_modules\\frameguard\\index.js:38:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at dnsPrefetchControl (D:\\Learning\\Node repetition\\vidly\\node_modules\\dns-prefetch-control\\index.js:10:7)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at helmet (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:52:5)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at serveStatic (D:\\Learning\\Node repetition\\vidly\\node_modules\\serve-static\\index.js:75:16)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at urlencodedParser (D:\\Learning\\Node repetition\\vidly\\node_modules\\body-parser\\lib\\types\\urlencoded.js:82:7)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\body-parser\\lib\\read.js:130:5\n    at invokeCallback (D:\\Learning\\Node repetition\\vidly\\node_modules\\raw-body\\index.js:224:16)\n    at done (D:\\Learning\\Node repetition\\vidly\\node_modules\\raw-body\\index.js:213:7)\n    at IncomingMessage.onEnd (D:\\Learning\\Node repetition\\vidly\\node_modules\\raw-body\\index.js:273:7)\n    at IncomingMessage.emit (events.js:182:13)\n    at endReadableNT (_stream_readable.js:1094:12)\n    at process._tickCallback (internal/process/next_tick.js:63:19)"}
+{"level":"error","message":"Movie.findById is not a functionMovie.findById is not a function","stack":"TypeError: Movie.findById is not a function\n    at findById (D:\\Learning\\Node repetition\\vidly\\routes\\return.js:28:11)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at next (D:\\Learning\\Node repetition\\vidly\\middleware\\auth.js:11:9)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:45:33)\n    at xXssProtection (D:\\Learning\\Node repetition\\vidly\\node_modules\\x-xss-protection\\index.js:26:7)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at nosniff (D:\\Learning\\Node repetition\\vidly\\node_modules\\dont-sniff-mimetype\\index.js:4:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at ienoopen (D:\\Learning\\Node repetition\\vidly\\node_modules\\ienoopen\\index.js:4:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at hsts (D:\\Learning\\Node repetition\\vidly\\node_modules\\hsts\\index.js:42:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at hidePoweredBy (D:\\Learning\\Node repetition\\vidly\\node_modules\\hide-powered-by\\index.js:12:7)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at frameguard (D:\\Learning\\Node repetition\\vidly\\node_modules\\frameguard\\index.js:38:5)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at dnsPrefetchControl (D:\\Learning\\Node repetition\\vidly\\node_modules\\dns-prefetch-control\\index.js:10:7)\n    at internalNext (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:49:7)\n    at helmet (D:\\Learning\\Node repetition\\vidly\\node_modules\\helmet\\index.js:52:5)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at serveStatic (D:\\Learning\\Node repetition\\vidly\\node_modules\\serve-static\\index.js:75:16)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at urlencodedParser (D:\\Learning\\Node repetition\\vidly\\node_modules\\body-parser\\lib\\types\\urlencoded.js:82:7)\n    at Layer.handle [as handle_request] (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Learning\\Node repetition\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at D:\\Learning\\Node repetition\\vidly\\node_modules\\body-parser\\lib\\read.js:130:5\n    at invokeCallback (D:\\Learning\\Node repetition\\vidly\\node_modules\\raw-body\\index.js:224:16)\n    at done (D:\\Learning\\Node repetition\\vidly\\node_modules\\raw-body\\index.js:213:7)\n    at IncomingMessage.onEnd (D:\\Learning\\Node repetition\\vidly\\node_modules\\raw-body\\index.js:273:7)\n    at IncomingMessage.emit (events.js:182:13)\n    at endReadableNT (_stream_readable.js:1094:12)\n    at process._tickCallback (internal/process/next_tick.js:63:19)"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly_tests","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly","level":"info"}
+{"message":"listening to port 3000..","level":"info"}
+{"message":"connected to mongodb://localhost/Vidly","level":"info"}
