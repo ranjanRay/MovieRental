@@ -43,10 +43,10 @@ router.post('/', (req, res) => {
             // console.log('hash: ', hash);
             req.body.password = hash;
             const user = new User(req.body, ['name', 'email', 'password']);
-
+            
             user
                 .save((error, result) => {
-                    if(error) return res.status(500).send(error);
+                    if(error) return res.status(500).send('Error saving to db.');
                     const token = user.generateAuthToken();
                     return res.header('x-auth-token', token).send(_.pick(result, ['_id', 'name', 'email']));
                 })
