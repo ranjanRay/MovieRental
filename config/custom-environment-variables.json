@@ -2,5 +2,6 @@
     "mail": {
         "server": "myMailServer"
     },
-    "jwtPrivateKey": "vidly_jwtPrivateKey"
+    "jwtPrivateKey": "vidly_jwtPrivateKey",
+    "db": "vidly_db"
 }
